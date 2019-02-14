@@ -1,0 +1,32 @@
+wave
+112 4 orc , 1 demon , 1 armored
+
+wave
+110 6 wolf
+
+wave
+102 1 armored , 1 demon
+
+wave
+98 5 orc , 1 demon
+
+wave
+78 4 armored
+
+wave
+74 1 wolf
+
+wave
+70 1 wolf , 2 orc
+
+wave
+50 1 wolf
+
+wave
+30 5 armored
+
+wave
+25 4 orc
+
+wave
+5 4 orc

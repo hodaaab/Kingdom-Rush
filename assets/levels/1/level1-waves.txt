@@ -1,0 +1,26 @@
+wave
+101 1 armored , 5 orc
+
+wave
+95 6 orc
+
+wave
+90 1 armored , 4 orc
+
+wave
+66 1 armored , 4 orc
+
+wave
+60 1 armored , 3 orc
+
+wave
+44 2 armored
+
+wave
+24 3 orc
+
+wave
+20 3 orc
+
+wave
+5 3 orc

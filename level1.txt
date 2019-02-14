@@ -1,0 +1,4 @@
+assets/levels/1/level1_info2.txt
+assets/levels/1/level1_info.txt
+assets/levels/1/level1-waves.txt
+assets/levels/1/level1-map.png
